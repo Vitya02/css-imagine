@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;1,100&display=swap');
+*{
+    background-color: black;
+}
+.logo { 
+    text-align: center;
+    width: 112px;
+    height: 36px;
+  margin-top: 120px;
+  margin-left: 627px;
+}
+.text{
+    width: 158px;
+    height: 14px;
+    color: #ffffff;
+    font-family: "lato";
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 1px;
+    line-height: normal;
+    margin: 40px;
+    margin-left: 607px;
+}
+.post-wrapper{  
+    display: inline;  
+    padding: 10px;
+    margin: 40px;
+    margin-left: 620px;
+}
+section{
+    width: 250px;
+    height: 16px;
+    /* Text style for "Kasper" */
+    color: #00e1ff;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    margin: 30px;
+    margin-left: 570px;
+    display: inline block ;
+}
+section div.thrumb{  color: white;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    display: inline;
+}
+section div.all{
+    color: white;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    display: inline;
+}
